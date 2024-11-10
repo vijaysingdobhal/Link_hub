@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352932059518",
+    "project_id": "movie-recommendation-d5fd7",
+    "storage_bucket": "movie-recommendation-d5fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352932059518:android:12ba5012c38e0f82547b2f",
+        "android_client_info": {
+          "package_name": "com.example.linkhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMp00t3xrJ6e5kZ87R3Gd8XbLI-a6R1wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352932059518:android:083d95a9f92c7f53547b2f",
+        "android_client_info": {
+          "package_name": "com.example.movie_recommendation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMp00t3xrJ6e5kZ87R3Gd8XbLI-a6R1wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

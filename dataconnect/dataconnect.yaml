@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "linkhub"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "linkhub-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
