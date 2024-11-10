@@ -50,7 +50,7 @@ Linkhub allows users to manage their links by organizing them into customizable 
     ```
 
 ## Screenshots
-![Home Screen]([screenshots/home_screen.png](https://drive.google.com/drive/u/2/folders/1xxgebnd99RtwFb9DnSg5T9NCG22uQCLD))
+![Home Screen]([screenshots/home_screen.png](https://drive.google.com/drive/u/2/folders/1xxgebnd99RtwFb9DnSg5T9NCG22uQCLD)
 ![Add Link](screenshots/add_link.png)
 ![Folder View](screenshots/folder_view.png)
 ![Settings](screenshots/settings.png)
